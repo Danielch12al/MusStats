@@ -1,0 +1,55 @@
+[
+  
+  {
+    "fecha": "10/09/2026",
+    "equipo1": {
+      "jugador1": "Daniel",
+      "jugador2": "Alba",
+      "puntos": 2
+    },
+    "equipo2": {
+      "jugador1": "Pablo",
+      "jugador2": "Miguel",
+      "puntos": 1
+    }
+  },
+  {
+    "fecha": "17/09/2026",
+    "equipo1": {
+      "jugador1": "Pablo",
+      "jugador2": "Miguel",
+      "puntos": 1
+    },
+    "equipo2": {
+      "jugador1": "Daniel",
+      "jugador2": "Lucas",
+      "puntos": 2
+    }
+  },
+  {
+    "fecha": "24/09/2026",
+    "equipo1": {
+      "jugador1": "Pablo",
+      "jugador2": "Lucas",
+      "puntos": 1
+    },
+    "equipo2": {
+      "jugador1": "Daniel",
+      "jugador2": "Miguel",
+      "puntos": 2
+    }
+  },
+  {
+    "fecha": "01/10/2026",
+    "equipo1": {
+      "jugador1": "Daniel",
+      "jugador2": "Lucas",
+      "puntos": 2
+    },
+    "equipo2": {
+      "jugador1": "Pablo",
+      "jugador2": "Miguel",
+      "puntos": 0
+    }
+  }
+]
