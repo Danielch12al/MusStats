@@ -77,5 +77,18 @@
       "jugador2": "Pablo",
       "puntos": 2
     }
+  },
+  {
+    "fecha": "15/10/2026",
+    "equipo1": {
+      "jugador1": "Nico",
+      "jugador2": "Miguel",
+      "puntos": 2
+    },
+    "equipo2": {
+      "jugador1": "Lucas",
+      "jugador2": "Pablo",
+      "puntos": 1
+    }
   }
 ]
